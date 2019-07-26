@@ -8,7 +8,7 @@ print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 print("Tool name    : Prime Checker")
 print("Made by      : Hitch Hicker")
 print("Requirements : python3")
-print("Usage        : python3 hh.py")
+print("Usage        : python3 hitchhicker.py")
 print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
 a = int(input("Enter Number > "))
 if(a>1):
