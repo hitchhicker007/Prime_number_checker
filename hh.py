@@ -5,8 +5,10 @@ print("| |_| || || __|/ __|| '_ \  \t| |_| || | / __|| |/ // _ \| '__|  |~~~~~~~
 print("|  _  || || |_| (__ | | | | \t|  _  || || (__ |   <|  __/| |     |~~~~~~~~~~~~~~~~~~~")
 print("|_| |_||_| \__|\___||_| |_| \t|_| |_||_| \___||_|\_\\\___||_|     |~~~~~~~~~~~~~~~~~~~")
 print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
-print("Tool name : Prime Checker")
-print("Made by   : Hitch Hicker")
+print("Tool name    : Prime Checker")
+print("Made by      : Hitch Hicker")
+print("Requirements : python3")
+print("Usage        : python3 hh.py")
 print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
 a = int(input("Enter Number > "))
 if(a>1):
